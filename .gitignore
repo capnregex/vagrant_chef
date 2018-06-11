@@ -1,0 +1,13 @@
+
+# ignore vi artifacts
+.*.sw*
+*~
+
+cookbooks/*
+plugins/*
+vagrant/
+.vagrant/
+chef/
+nodes/
+pem/
+
